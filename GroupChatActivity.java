@@ -109,7 +109,7 @@ public class GroupChatActivity extends AppCompatActivity {
                             public void onSuccess(@NonNull Void unused) {
 
                             }
-                        })
+                        });
 
 
             }
